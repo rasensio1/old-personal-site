@@ -44,3 +44,18 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+
+/* END OF RESET ================
+ * 
+ */
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+.name {
+
+  font-family:
+  font-size:
+  font-weight:
+}  
