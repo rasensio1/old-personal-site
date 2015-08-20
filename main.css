@@ -50,12 +50,12 @@ table {
  *
  */
 body {
-  font:
+  font: "Lucida Console"
   background:
-  color:
+  color: red
 }
 h1 {
-  font-size: 60 
+  font-size:200 
 }
 
 h2 {
