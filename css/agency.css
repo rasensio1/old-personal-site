@@ -865,3 +865,12 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+.white, .white:hover  {
+  color: white;
+  text-decoration: none
+}
+
+.white:hover {
+  color: black;
+}
